@@ -93,6 +93,12 @@ projek-uts-pbf/
 <img width="682" height="239" alt="image" src="https://github.com/user-attachments/assets/0cc1acb5-d700-4b8a-b03e-b0765da48706" />
 <img width="524" height="110" alt="image" src="https://github.com/user-attachments/assets/26456d2b-61bc-46f3-85b6-3777be6c2cd0" />
 
+<img width="1359" height="625" alt="image" src="https://github.com/user-attachments/assets/31425d22-5ee8-4de2-a6f7-d04621a5f89a" />
+[mahasiswa.pdf](https://github.com/user-attachments/files/23293537/mahasiswa.pdf)
+[mahasiswa.xlsx](https://github.com/user-attachments/files/23293540/mahasiswa.xlsx)
+<img width="1352" height="668" alt="image" src="https://github.com/user-attachments/assets/cc53b9cf-d2e5-4dcd-884b-e5838cb78e01" />
+<img width="1346" height="649" alt="image" src="https://github.com/user-attachments/assets/e170434e-1179-4107-a1d0-b4805beb17bf" />
+
 
 
 ---
