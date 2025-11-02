@@ -86,8 +86,7 @@ projek-uts-pbf/
 ```
 
 
-## 📷 **Screenshot Tampilan (Opsional)**
-Kamu bisa tambahkan gambar seperti:
+📷 **Screenshot Tampilan**
 <img width="654" height="184" alt="image" src="https://github.com/user-attachments/assets/a6c7516e-72da-4197-9c6e-bdb07127a904" />
 <img width="661" height="232" alt="image" src="https://github.com/user-attachments/assets/5059c723-1d16-4705-ac6a-7f33a00ad6fc" />
 <img width="682" height="239" alt="image" src="https://github.com/user-attachments/assets/0cc1acb5-d700-4b8a-b03e-b0765da48706" />
