@@ -1,11 +1,11 @@
-# 📌 Projek UTS PBF (Pemrograman Berbasis Framework)
+ 📌 Projek UTS PBF (Pemrograman Berbasis Framework)
 
 Dokumentasi ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Berbasis Framework (PBF)**.  
 Project ini berisi aplikasi berbasis web dengan fitur CRUD dan beberapa fitur tambahan seperti export PDF/Excel.
 
 ---
 
-## 👩‍💻 **Identitas Penyusun**
+👩‍💻 **Identitas Penyusun**
 | Keterangan        | Isi                             |
 |-------------------|----------------------------------|
 | Nama              | Hernawati                       |
@@ -16,7 +16,7 @@ Project ini berisi aplikasi berbasis web dengan fitur CRUD dan beberapa fitur ta
 
 ---
 
-## 📖 **Deskripsi Singkat Proyek**
+📖 **Deskripsi Singkat Proyek**
 Aplikasi ini dibuat menggunakan **PHP Laravel Framework** dan bertujuan untuk melakukan:
 - Pengelolaan data (CRUD – Create, Read, Update, Delete).
 - Export data ke **PDF** dan **Excel**.
@@ -24,7 +24,7 @@ Aplikasi ini dibuat menggunakan **PHP Laravel Framework** dan bertujuan untuk me
 
 ---
 
-## ⚙️ **Teknologi yang Digunakan**
+⚙️ **Teknologi yang Digunakan**
 - **Laravel** (PHP Framework)
 - **MySQL / phpMyAdmin**
 - **Bootstrap / Tailwind CSS**
@@ -33,7 +33,7 @@ Aplikasi ini dibuat menggunakan **PHP Laravel Framework** dan bertujuan untuk me
 
 ---
 
-## 🚀 **Cara Menjalankan Proyek di Lokal (Localhost)**
+ 🚀 **Cara Menjalankan Proyek di Lokal (Localhost)**
 
 ```bash
 # 1. Clone repository ini:
@@ -74,8 +74,7 @@ php artisan serve
 - ✅ Tampilan responsif (Bootstrap/Tailwind)
 
 ---
-
-## 🗂️ **Struktur Folder Utama Laravel**
+ 🗂️ **Struktur Folder Utama Laravel**
 ```
 projek-uts-pbf/
 │
@@ -86,26 +85,23 @@ projek-uts-pbf/
 └── database/     # Migrations dan Seeder
 ```
 
----
 
 ## 📷 **Screenshot Tampilan (Opsional)**
 Kamu bisa tambahkan gambar seperti:
-```
-/screenshots/login-page.png
-/screenshots/dashboard.png
-/screenshots/data-crud.png
-```
+<img width="654" height="184" alt="image" src="https://github.com/user-attachments/assets/a6c7516e-72da-4197-9c6e-bdb07127a904" />
+<img width="661" height="232" alt="image" src="https://github.com/user-attachments/assets/5059c723-1d16-4705-ac6a-7f33a00ad6fc" />
+<img width="682" height="239" alt="image" src="https://github.com/user-attachments/assets/0cc1acb5-d700-4b8a-b03e-b0765da48706" />
+<img width="524" height="110" alt="image" src="https://github.com/user-attachments/assets/26456d2b-61bc-46f3-85b6-3777be6c2cd0" />
+
+
 
 ---
 
-## 📌 **Lisensi**
-Project ini dibuat untuk keperluan akademik dan pembelajaran.
+💬 Kontak
 
----
+📧 Email: hernaeren27@gmail.com
 
-## 💬 **Kontak**
-- 📧 Email: hernaeren27@gmail.com  
-- 💻 GitHub: https://github.com/Hernawati27
+💻 GitHub: https://github.com/Hernawati27
 
 ---
 
